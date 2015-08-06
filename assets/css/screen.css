@@ -1,0 +1,16 @@
+.nav ul {
+  padding: 0px;
+}
+.nav li {
+  padding: 0px 10px 0px 0px;
+  display: inline-block;
+}
+
+.share a {
+  padding: 0px 10px 0px 0px;
+}
+
+section hr {
+  width: 55%;
+  margin: 0;
+}
